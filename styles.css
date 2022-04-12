@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ccc;
+}
+
+main {
+  background-color: white;
+  max-width: 800px;
+  margin: 10px auto;
+  padding: 20px;
+}
